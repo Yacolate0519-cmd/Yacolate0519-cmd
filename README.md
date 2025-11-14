@@ -1,4 +1,4 @@
-# 🧑‍💻 Welcome to my Github Page, I'm Yacolate
+# 🧑‍💻 Welcome to Yacolate's Github Page
 
 <br>
   <img src="src/4.gif" width="900" height=450>
