@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 嗨，我是 **Yacolate**，一名忠實的果粉  目前就讀 **逢甲大學 AI 技術與應用學位學程**，同時擔任 **FCU iOS Club 教學長**
 
@@ -24,7 +24,7 @@
 
 ---
 
-## 🛠 Skills & Tools
+# 🛠 Skills & Tools
 
 ### **👑 iOS Development**
 - Swift / SwiftUI / UIKit  
@@ -67,41 +67,6 @@
 
 ---
 
-## 📚 Featured Projects
-
-### 🔹 **📱 中醫 AI 健康紀錄 App（正在開發）**
-望聞問切四診：  
-- 舌象辨識（Deep Learning）  
-- 語音情緒 & 語音狀態分析（WavLM）  
-- AR 穴位定位  
-- 健康建議生成（Ollama + LLM）
-
-### 🔹 **✋ 手部顫動頻率分析 App（Python → Swift 重構）**
-- FFT + Welch 頻譜分析  
-- Kalman Filter  
-- 實時手部座標擷取  
-- CSV 匯出 + 圖表視覺化  
-- iPhone 端離線分析
-
-### 🔹 **🔍 SEM 材料孔隙率分析系統**
-- YOLO + Mask R-CNN / U-Net  
-- 孔洞偵測 / 實例分割  
-- 孔隙率量化  
-- 自動資料前處理與模型訓練管線
-
-### 🔹 **📸 MediaPipe x Swift 高效手部辨識**
-- 自訂 CameraSession  
-- 前/後鏡頭切換  
-- Landmark Overlay  
-- Frame-by-frame Vision pipeline
-
-### 🔹 **🌱 智慧家庭農場 IoT（遠端影像監控 + 澆水系統）**
-- ESP32-S3-CAM 影像串流  
-- 溫濕度、水位偵測  
-- Make.com 自動化  
-- LINE 通知 & 遠端控制
-
----
 
 ## 📫 Contact Me
 
