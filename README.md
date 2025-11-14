@@ -42,13 +42,6 @@
 - Web Crawler（Requests、BeautifulSoup、re）  
 - Make.com、Webhook、JSON
 
-## **🔌 IoT / Embedded**
-- ESP32 / ESP32-S3-CAM / MicroPython  
-- 感測器資料蒐集  
-- 影像串流與遠端監控  
-- 自動澆水系統 + 影像辨識  
-- Wake-on-LAN + VPN 伺服器架設
-
 ---
 
 
