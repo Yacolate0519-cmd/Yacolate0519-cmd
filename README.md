@@ -4,13 +4,12 @@
   <img src="src/4.gif" width="900" height=450>
 </p>
 
-嗨，我是 **Yacolate**，一名忠實的果粉
-目前就讀 **逢甲大學 AI 技術與應用學位學程**，同時擔任 **FCU iOS Club 教學長**
-
-
 ---
 
 ## 🚀 About Me
+
+嗨，我是 **Yacolate**，一名忠實的果粉
+目前就讀 **逢甲大學 AI 技術與應用學位學程**，同時擔任 **FCU iOS Club 教學長**
 
 - 🎓 **AI 學士學位學生**，專攻 Computer Vision、深度學習模型、量子計算、演算法  
 - 🍎 **iOS Club 教學長**，教授 SwiftUI、CoreML、App 架構、UI/UX  
