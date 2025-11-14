@@ -1,13 +1,12 @@
-# Hi There🧑‍💻 ,Welcome to my Github Page, I'm Yacolate, A Sophomore student in Fengchia University 
+# 🧑‍💻 Welcome to my Github Page, I'm Yacolate, A Sophomore student in Fengchia University 
 
 <br>
   <img src="src/4.gif" width="900" height=450>
 </p>
 
-嗨，我是 **Yacolate**，一名忠實的果粉  
+嗨，我是 **Yacolate**，一名忠實的果粉
 目前就讀 **逢甲大學 AI 技術與應用學位學程**，同時擔任 **FCU iOS Club 教學長**
 
-我擅長把「抽象的技術」變成「可運作的產品」，無論是 iOS App、深度學習模型、IoT 系統或影像分析工具，都能從研究到落地完整打造。
 
 ---
 
