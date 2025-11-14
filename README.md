@@ -8,7 +8,7 @@
 
 # 🚀 About Me
 
-嗨，我是 **Yacolate**，一名忠實的果粉  目前就讀 **逢甲大學 AI 技術與應用學位學程**，同時擔任 **FCU iOS Club 教學長**
+## 嗨，我是 **Yacolate**，一名忠實的果粉  目前就讀 **逢甲大學 AI 技術與應用學位學程**，同時擔任 **FCU iOS Club 教學長**
 
 - 🎓 **AI 學士學位學生**，專攻 Computer Vision、深度學習模型、量子計算、演算法  
 - 🍎 **iOS Club 教學長**，教授 SwiftUI、CoreML、App 架構、UI/UX  
@@ -26,7 +26,7 @@
 
 # 🛠 Skills & Tools
 
-### **👑 iOS Development**
+## **👑 iOS Development**
 - Swift / SwiftUI / UIKit  
 - CoreML、Vision、AVFoundation  
 - MediaPipe Hands、CameraSession 自訂  
@@ -34,7 +34,7 @@
 - Core Data、FileManager、URLSession  
 - SwiftUI 動畫、互動介面設計
 
-### **🤖 Machine Learning / AI**
+## **🤖 Machine Learning / AI**
 - CNN / U-Net / Mask R-CNN  
 - YOLO 系列（v6/8/11）  
 - DenseNet / ResNet  
@@ -43,7 +43,7 @@
 - Data Augmentation / Training Pipeline  
 - CoreML 模型轉換與部署
 
-### **🌐 Backend / Automation**
+## **🌐 Backend / Automation**
 - RESTful API  
 - LINE Bot  
 - n8n 工作流程  
@@ -51,14 +51,14 @@
 - Web Crawler（Requests、BeautifulSoup、re）  
 - Make.com、Webhook、JSON
 
-### **🔌 IoT / Embedded**
+## **🔌 IoT / Embedded**
 - ESP32 / ESP32-S3-CAM / MicroPython  
 - 感測器資料蒐集  
 - 影像串流與遠端監控  
 - 自動澆水系統 + 影像辨識  
 - Wake-on-LAN + VPN 伺服器架設
 
-### **🔍 Others**
+## **🔍 Others**
 - Git / GitHub  
 - Algorithm Design（DP、Divide & Conquer、Graphs）  
 - Quantum Computing（VQA）  
@@ -68,7 +68,7 @@
 ---
 
 
-## 📫 Contact Me
+# 📫 Contact Me
 
 - ✉️ Email：yacolate0519@gmail.com (可自行改)
 - 🏫 FCU iOS Club 教學長  
@@ -76,5 +76,5 @@
 
 ---
 
-## 💬 Motto
-> **技術不是目的，能做出「真的有用」的產品才是目標。**
+# 💬 Motto
+> **Stay Hungry Stay Foolish**
