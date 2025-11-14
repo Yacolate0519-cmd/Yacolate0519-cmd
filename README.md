@@ -1,10 +1,14 @@
-# TEST
+## Hi there 👋
+
+
 ### 🎨 Aesthetic Pixel Art
 
 <p align="center">
-  <img src="assets/forest.gif" width="500">
+  <img src="src/1.gif" width="500">
   <br>
-  <img src="assets/shop.gif" width="450">
+  <img src="src/2.gif" width="450">
   <br>
-  <img src="assets/noodle.gif" width="450">
+  <img src="src/3.gif" width="450">
+  <br>
+  <img src="src/4.gif" width="450">
 </p>
