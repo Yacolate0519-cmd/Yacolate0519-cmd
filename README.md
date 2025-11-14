@@ -6,6 +6,10 @@
 <br>
 
   <img src="src/4.gif" width=900>
+  <br>
+  <img src="src/4.gif" width="900" height=450>
+  <br>
+  <img src="src/4.gif" width="900" height=350>
 
 </p>
 
