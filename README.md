@@ -1,4 +1,4 @@
-# Hi There🧑‍💻 ,Welcome to my Github Page, I'm Yacolate 
+# Hi There🧑‍💻 ,Welcome to my Github Page, I'm Yacolate, A Sophomore student in Fengchia University 
 
 <br>
   <img src="src/4.gif" width="900" height=450>
