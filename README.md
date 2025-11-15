@@ -9,41 +9,83 @@
 # 🚀 About Me
 
 ## 嗨，我是 **Yacolate**，一名忠實的果粉  
-## 目前就讀 **逢甲大學 AI 技術與應用學位學程**，同時擔任 **FCU iOS Club 教學長**
+## 目前就讀 **Fengchia University Artificial Intelligence Technology and Application**，擔任 **FCU iOS Club 教學長**
 
 - 🎓 **AI 學士學位學生**，專攻 Computer Vision、深度學習模型
 - 🍎 **iOS Club 教學長**，教授 SwiftUI、CoreML  
-- 💻 **跨平台工程能力**：Swift、Python、TensorFlow、PyTorch、ESP32、AVFoundation  
-- ⚙️ **全端與自動化能力**：API、LINE Bot、爬蟲、n8n workflow、自動部署  
-- 🔧 **硬體整合經驗**：ESP32-S3-CAM、LiDAR、深度影像、IoT 感測器、Wake-on-LAN  
-- 💡 目標：打造能真正落地、解決問題、具使用者體驗的智慧系統
+- 💡 **目標**：理解自己真正想要的是什麼？以及活得快樂，活成自己期望的模樣。
 
 ---
 
 # 🛠 Skills & Tools
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+
+    <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
+  </a>
+
+
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+  </a>
+
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+
+
+
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
+
+
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+
+
+
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+
+
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+
+
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  </a>
+
+
+</p>
+
+
+
 ## **👑 iOS Development**
 - Swift / SwiftUI   
-- CoreML、Vision、AVFoundation  
-- SwiftUI 動畫、互動介面設計
+- Animation、CoreML、Vision、AVFoundation
 
-## **🤖 Machine Learning / AI**
-- CNN / U-Net / Mask R-CNN  
-- YOLO 系列演算法
-- DenseNet / ResNet  
-- FFT、Welch、Kalman Filter（手部顫動分析）  
-- WavLM 中文語音情緒辨識  
-- CoreML 模型轉換與部署
-
-## **🌐 Backend / Automation**
-- LINE Bot  
-- n8n 工作流程  
-- Python FastAPI  
-- Web Crawler（Requests、BeautifulSoup、re）  
-- Make.com、Webhook、JSON
+## **🤖 Machine Learning / AI（Still Learning）**
 
 ---
-
 
 # 📫 Contact Me
 
@@ -56,3 +98,5 @@
 
 # 💬 Motto
 > **Stay Hungry Stay Foolish**
+> **我也不知道自己未來會變什麼樣子，只要自己知道在做什麼就好，踏踏實實地走**
+> **意義是自己定義的**
