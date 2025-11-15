@@ -19,13 +19,11 @@
 
 # 🛠 Skills & Tools
 
-<h3 align="left">Languages and Tools:</h3>
-
-<table frame="void">
+<table border="0" style="border-collapse: collapse;">
   <tr>
-    <!-- 左：Icons -->
-    <td align="left" width="60%">
+    <td align="left" width="60%" style="border: none;">
 
+  <!-- Icons area -->
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   </a>
@@ -72,14 +70,12 @@
 
 </td>
 
-<!-- 右：GitHub stats -->
-<td align="right" width="40%">
+<td align="right" width="40%" style="border: none;">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Yacolate0519-cmd&show_icons=true&locale=en&layout=compact"
     height="200"
   />
 </td>
-
   </tr>
 </table>
 
