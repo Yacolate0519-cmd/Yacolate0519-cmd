@@ -79,12 +79,9 @@
 
 
 
-## **👑 iOS Development**
+## ** iOS Development**
 - Swift / SwiftUI   
 - Animation、CoreML、Vision、AVFoundation
-
-## **🤖 Machine Learning / AI（Still Learning）**
-
 ---
 
 # 📫 Contact Me
