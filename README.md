@@ -74,10 +74,9 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
 
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yacolate0519-cmd&show_icons=true&locale=en&layout=compact" alt="Yacolate0519-cmd" />
+
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yacolate0519-cmd&show_icons=true&locale=en&layout=compact" alt="Yacolate0519-cmd" /></p>
 
 
 ## ** iOS Development**
