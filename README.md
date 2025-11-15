@@ -18,13 +18,10 @@
 ---
 
 # 🛠 Skills & Tools
-<table border="0" style="border-collapse: collapse;">
-  <tr>
 
-<!-- 左側：Icons -->
-<td align="left" width="60%" style="border: none;">
+<!-- Icons 一行 -->
+<p align="left">
 
-  <!-- 第一行 -->
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   </a>
@@ -49,9 +46,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
   </a>
 
-  <br> <!-- 分行 -->
-
-  <!-- 第二行 -->
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
   </a>
@@ -72,18 +66,16 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
   </a>
 
-</td>
+</p>
 
-<!-- 右側：GitHub Stats -->
-<td align="right" width="40%" style="border: none;">
+<!-- Stats 另外一行 -->
+<p align="left">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Yacolate0519-cmd&show_icons=true&locale=en&layout=compact"
     height="200"
   />
-</td>
+</p>
 
-  </tr>
-</table>
 ---
 
 ## ** iOS Development**
