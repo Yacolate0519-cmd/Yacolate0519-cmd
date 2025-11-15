@@ -76,7 +76,6 @@
   <td align="right" width="40%" frame="void">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=Yacolate0519-cmd&show_icons=true&locale=en&layout=compact"
-      height="200" 
     />
   </td>
   </tr>
