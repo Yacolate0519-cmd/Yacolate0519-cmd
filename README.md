@@ -19,11 +19,12 @@
 
 # 🛠 Skills & Tools
 
-<table border="0" style="border-collapse: collapse;">
+
+<table frame="void">
   <tr>
     <td align="left" width="60%" style="border: none;">
 
-  <!-- Icons area -->
+<!-- Icons area -->
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   </a>
@@ -48,6 +49,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
   </a>
 
+  <br>
+
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
   </a>
@@ -68,15 +71,16 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
   </a>
 
-</td>
+  </td>
 
-<td align="right" width="40%" style="border: none;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Yacolate0519-cmd&show_icons=true&locale=en&layout=compact"
-    height="200"
-  />
-</td>
+  <td align="right" width="40%" frame="void">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=Yacolate0519-cmd&show_icons=true&locale=en&layout=compact"
+      height="200" 
+    />
+  </td>
   </tr>
+</table>
 </table>
 
 ---
