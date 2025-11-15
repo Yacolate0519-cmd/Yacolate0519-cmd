@@ -21,7 +21,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<table>
+<table frame="void">
   <tr>
     <!-- 左：Icons -->
     <td align="left" width="60%">
