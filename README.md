@@ -18,13 +18,13 @@
 ---
 
 # 🛠 Skills & Tools
-
-
-<table frame="void">
+<table border="0" style="border-collapse: collapse;">
   <tr>
-    <td align="left" width="60%" style="border: none;">
 
-<!-- Icons area -->
+<!-- 左側：Icons -->
+<td align="left" width="60%" style="border: none;">
+
+  <!-- 第一行 -->
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   </a>
@@ -49,6 +49,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
   </a>
 
+  <br> <!-- 分行 -->
+
+  <!-- 第二行 -->
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
   </a>
@@ -56,8 +59,6 @@
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
   </a>
-
-  <br>
 
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
@@ -71,17 +72,18 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
   </a>
 
-  </td>
+</td>
 
-  <td align="right" width="40%" frame="void">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=Yacolate0519-cmd&show_icons=true&locale=en&layout=compact"
-    />
-  </td>
+<!-- 右側：GitHub Stats -->
+<td align="right" width="40%" style="border: none;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Yacolate0519-cmd&show_icons=true&locale=en&layout=compact"
+    height="200"
+  />
+</td>
+
   </tr>
 </table>
-</table>
-
 ---
 
 ## ** iOS Development**
