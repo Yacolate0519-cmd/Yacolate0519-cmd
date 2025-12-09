@@ -11,8 +11,8 @@
 ## 嗨，我是 **Yacolate**，一名忠實的果粉  <- This is apple logo
 ## 目前就讀 **Fengchia University Artificial Intelligence Technology and Application**，擔任 **FCU iOS Club 教學長**
 
-- 🎓 **AI 學士學位學生**，專攻 Computer Vision、深度學習模型
-- 🍎 **iOS Club 教學長**，教授 SwiftUI、CoreML  
+- 🎓 **AI 學士學位學生**
+- 🍎 **iOS Club 教學長**
 - 💡 **目標**：理解自己真正想要的是什麼？以及活得快樂，活成自己期望的模樣。
 
 ---
