@@ -8,8 +8,8 @@
 
 # 🚀 About Me
 
-## 嗨，我是 **Yacolate**，一名忠實的果粉  <- This is apple logo
-## 目前就讀 **Fengchia University Artificial Intelligence Technology and Application**，擔任 **FCU iOS Club 教學長**
+## 嗨，我是 **Yacolate**
+## **Fengchia University Artificial Intelligence Technology and Application**，擔任 **FCU iOS Club 教學長**
 
 - 🎓 **AI 學士學位學生**
 - 🍎 **iOS Club 教學長**
