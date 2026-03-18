@@ -6,10 +6,9 @@
 
 ---
 
-# 🚀 About Me
-
-## 嗨，我是 **Yacolate**
-## **Fengchia University Artificial Intelligence Technology and Application**，擔任 **FCU iOS Club 教學長**
+# 嗨，我是 **Yacolate**
+## **Fengchia University Artificial Intelligence Technology and Application, FCUAITA**
+## **擔任 FCU iOS Club 教學長**
 
 - 🎓 **AI 學士學位學生**
 - 🍎 **iOS Club 教學長**
